@@ -1,3 +1,3 @@
 #Első programom
 greatings = 'Hello World!'
-print (greatings)
+print(greatings)
